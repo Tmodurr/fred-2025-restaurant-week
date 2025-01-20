@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Anita's Cafe",
+          "address": "620 Caroline St",
+          "phone": "703-965-7981",
+          "website": "https://www.facebook.com/AnitasCafeFXBG",
+          "special": "Chicken or Egg Salad Sandwich on a croissant and a medium brewed coffee/iced tea for $10.25"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.46026, 38.30318]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Agave Bar & Grill",
+          "address": "101 William St",
+          "phone": "540-733-3200",
+          "website": "https://www.agavedowntown.com",
+          "special": "Agave ‘25 Restaurant week Menu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.46098, 38.30345]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Alpine Chef",
+          "address": "200 Lafayette Blvd",
+          "phone": "540-656-2101",
+          "website": "https://www.alpinechefrestaurant.com",
+          "special": "2 courses for $27.25 – 3 courses $36.25"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.45654, 38.29965]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Always Flavored",
+          "address": "610 Caroline St",
+          "phone": "540-690-4423",
+          "website": "https://alwaysflavored.com",
+          "special": "Breakfast: Choice of any sandwich and a drink for $8.25; Lunch: Any Sandwich, side and a drink for $13.25"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.45995, 38.30305]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Billiken's Smokehouse",
+          "address": "623 Caroline St",
+          "phone": "540-665-2932",
+          "website": "https://billikensbbq.com",
+          "special": "Lunch special $12.25; Dinner Special $25.25; Dinner Beef Rib Special $65.25"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.46010, 38.30320]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Castiglia's Italian Restaurant",
+          "address": "324 William St",
+          "tags": ["Italian", "Pizza", "Pasta"],
+          "phone": "540-373-6650",
+          "website": "https://www.castigliasitalianrestaurant.com",
+          "special": "$12.25 sandwich & drink; $24.25 3 course meal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.46050, 38.30360]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "City Vino",
+          "address": "100 Hanover St",
+          "phone": "540-368-0400",
+          "website": "https://www.city-vino.com",
+          "special": "First $40.25 to reserve your seat, then $60.00 at the door. Dinner includes three courses with an option for dessert course for $15."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.46070, 38.30380]
+        }
+      }
+    ]
+  }
+  

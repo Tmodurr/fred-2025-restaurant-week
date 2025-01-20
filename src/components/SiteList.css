@@ -1,0 +1,37 @@
+.list__container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    border-radius: 12px;
+    margin: 2rem;
+    max-width: 450px;
+    width: 100%;
+    z-index: 100;
+    height: calc(100% - 6rem); /* Adjusting for top and bottom margins */
+    background-color: rgba(0, 0, 0, 0.5); /* Example background */
+    color: white; /* Example text color */
+    padding: 1rem; /* Optional padding */
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Optional shadow */
+    overflow: auto; /* Allow scrolling if content exceeds height */
+}
+
+.responsive-image {
+    max-height: 100px;  /* Ensures image height does not exceed 100px */
+    width: auto;        /* Keeps the correct aspect ratio */
+    max-width: 100%;    /* Ensures the image does not overflow its container */
+    display: block;     /* Removes extra spacing below the image */
+    object-fit: contain; /* Ensures the image fits within the height while preserving aspect ratio */
+  }
+
+  .image__container{
+    display: flex;
+    justify-content: left;
+  }
+
+  h2 {
+    color: black;
+    font-family: Roboto;
+    padding: 1rem;
+  }
